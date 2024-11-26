@@ -1,0 +1,17 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.0",
+    "electron-packager": "^17.1.2"
+  }
+}
